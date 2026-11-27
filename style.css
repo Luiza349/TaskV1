@@ -1,5 +1,9 @@
 body {
 color: black;
-background: brown;
+background: rgb(47, 255, 158);
+font-family: Arial, sans-serif;
+font-size: 50px;
+font-weight: 400;
+font-style: italic;
     
 }
